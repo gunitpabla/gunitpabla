@@ -1,0 +1,21 @@
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("app/about/page",{
+
+/***/ "(app-pages-browser)/./node_modules/.pnpm/next@13.5.4_@opentelemetry+api@1.4.1_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fgunitpabla%2FDownloads%2Fgunitpabla%2Fapp%2Fcomponents%2Fcard.tsx&modules=%2FUsers%2Fgunitpabla%2FDownloads%2Fgunitpabla%2Fapp%2Fcomponents%2Fnav.tsx&server=false!":
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/.pnpm/next@13.5.4_@opentelemetry+api@1.4.1_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fgunitpabla%2FDownloads%2Fgunitpabla%2Fapp%2Fcomponents%2Fcard.tsx&modules=%2FUsers%2Fgunitpabla%2FDownloads%2Fgunitpabla%2Fapp%2Fcomponents%2Fnav.tsx&server=false! ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
+
+eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./app/components/card.tsx */ \"(app-pages-browser)/./app/components/card.tsx\"));\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./app/components/nav.tsx */ \"(app-pages-browser)/./app/components/nav.tsx\"))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL25vZGVfbW9kdWxlcy8ucG5wbS9uZXh0QDEzLjUuNF9Ab3BlbnRlbGVtZXRyeSthcGlAMS40LjFfcmVhY3QtZG9tQDE4LjIuMF9yZWFjdEAxOC4yLjAvbm9kZV9tb2R1bGVzL25leHQvZGlzdC9idWlsZC93ZWJwYWNrL2xvYWRlcnMvbmV4dC1mbGlnaHQtY2xpZW50LWVudHJ5LWxvYWRlci5qcz9tb2R1bGVzPSUyRlVzZXJzJTJGZ3VuaXRwYWJsYSUyRkRvd25sb2FkcyUyRmd1bml0cGFibGElMkZhcHAlMkZjb21wb25lbnRzJTJGY2FyZC50c3gmbW9kdWxlcz0lMkZVc2VycyUyRmd1bml0cGFibGElMkZEb3dubG9hZHMlMkZndW5pdHBhYmxhJTJGYXBwJTJGY29tcG9uZW50cyUyRm5hdi50c3gmc2VydmVyPWZhbHNlISIsIm1hcHBpbmdzIjoiQUFBQSw0S0FBbUc7QUFDbkciLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLz8xZWRmIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiICovIFwiL1VzZXJzL2d1bml0cGFibGEvRG93bmxvYWRzL2d1bml0cGFibGEvYXBwL2NvbXBvbmVudHMvY2FyZC50c3hcIik7XG5pbXBvcnQoLyogd2VicGFja01vZGU6IFwiZWFnZXJcIiAqLyBcIi9Vc2Vycy9ndW5pdHBhYmxhL0Rvd25sb2Fkcy9ndW5pdHBhYmxhL2FwcC9jb21wb25lbnRzL25hdi50c3hcIikiXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(app-pages-browser)/./node_modules/.pnpm/next@13.5.4_@opentelemetry+api@1.4.1_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fgunitpabla%2FDownloads%2Fgunitpabla%2Fapp%2Fcomponents%2Fcard.tsx&modules=%2FUsers%2Fgunitpabla%2FDownloads%2Fgunitpabla%2Fapp%2Fcomponents%2Fnav.tsx&server=false!\n"));
+
+/***/ })
+
+});
