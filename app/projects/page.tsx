@@ -23,7 +23,7 @@ export default function ProjectsPage() {
           <h2 className="text-3xl font-bold tracking-tight text-zinc-100 sm:text-4xl">
             Projects
           </h2>
-          <p className="mt-4 text-zinc-400">
+          <p className="mt-4 text-zinc-400 text-lg">
             Some of the projects I have done.
           </p>
         </div>
