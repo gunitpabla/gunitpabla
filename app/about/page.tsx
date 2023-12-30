@@ -1,7 +1,7 @@
 // AboutPage.js
 import React from "react";
 import { Navigation } from "../components/nav";
-import { Card } from "../components/card"; // Assuming you have a Card component
+import { Card } from "../components/card";
 import EducationTimeline from "./education";
 import WorkTimeline from "./experience";
 
@@ -16,17 +16,17 @@ export default function AboutPage() {
           </h2>
           <div className="lg:flex items-center col-span-3">
             <div className="lg:mr-40">
-              <p className="mt-4 text-zinc-400 text-lg">
+              <p className="mt-4 text-zinc-100 text-lg">
                 Hello, I'm Gunit, a student at the University of California,
                 Berkeley, pursuing simultaneous degrees in Data Science and
                 Mechanical Engineering.
               </p>
-              <p className="mt-4 text-zinc-400 text-lg">
+              <p className="mt-4 text-zinc-100 text-lg">
                 I'm fascinated by artificial intelligence, machine learning,
                 robotics, and software engineering. My aim is to contribute to
                 the forefront of technological advancements.
               </p>
-              <p className="mt-4 text-zinc-400 text-lg">
+              <p className="mt-4 text-zinc-100 text-lg">
                 I started my academic journey with aspirations of becoming a
                 mechanical engineer where I explored various facets of
                 engineering. It was in the realm of robotics, where hardware
@@ -36,9 +36,9 @@ export default function AboutPage() {
                 robotics.
               </p>
             </div>
-            <div className="flex-shrink-0 sm:mt-10">
+            <div className="flex-shrink-0 sm:mt-10 mr-20">
               <img
-                src="/gunit_photo.png" // Reference the image directly
+                src="/gunit_photo.png"
                 alt="Gunit's Image"
                 className="w-80 h-90 object-cover rounded-tl-lg rounded-tr-lg rounded-bl-lg rounded-br-lg"
               />

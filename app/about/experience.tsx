@@ -25,10 +25,10 @@ const WorkItem: React.FC<WorkProps> = ({
       <h2 className="z-20 text-xl font-medium duration-1000 lg:text-2xl text-zinc-200 group-hover:text-white font-display">
         {company}
       </h2>
-      <p className="text-md text-zinc-400">
+      <p className="text-md text-zinc-300">
         {position} • {year}
       </p>
-      <p className="text-md text-zinc-400">{description}</p>
+      <p className="text-md text-zinc-300">{description}</p>
     </div>
   </div>
 );
