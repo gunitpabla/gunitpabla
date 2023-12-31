@@ -7,21 +7,14 @@ import { Analytics } from "./components/analytics";
 export const metadata: Metadata = {
   title: {
     default: "Gunit Pabla",
-    template: "%s | chronark.com",
+    template: "%s | gunitpabla.vercel.app",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "Berkeley Data Science and Mechanical Engineering",
   openGraph: {
-    title: "chronark.com",
-    description: "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://chronark.com",
-    siteName: "chronark.com",
-    images: [
-      {
-        url: "https://chronark.com/og.png",
-        width: 1920,
-        height: 1080,
-      },
-    ],
+    title: "gunitpabla.vercel.app",
+    description: "Berkeley Data Science and Mechanical Engineering",
+    url: "https://gunitpabla.vercel.app",
+    siteName: "gunitpabla.vercel.app",
     locale: "en-US",
     type: "website",
   },
